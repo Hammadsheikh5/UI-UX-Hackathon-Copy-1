@@ -11,6 +11,7 @@ export default function Header() {
           <li>Services</li>
           <li>Contact</li>
           <li>Projects</li>
+          <li>Ideas</li>
         </ul>
       </div>
     </div>
